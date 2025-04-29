@@ -4,9 +4,9 @@
 
 
 
-Here are some ideas to get you started:
+
 # 💫 About Me:
-I am a double major in data science and English.<br>
+I am a double major in Data science and English.<br>
 
 
 # 💻 Tech Stack:
@@ -21,12 +21,5 @@ I am a double major in data science and English.<br>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-- 🔭 I’m currently majoring in Data science and Engineering
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
